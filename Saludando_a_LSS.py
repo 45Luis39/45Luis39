@@ -1,1 +1,5 @@
 print("Hola Yiusus")
+print("Hola Naomi")
+print("Hola Rodolfo")
+print("Hola Carlos")
+print("Ese Rafa")
